@@ -1,0 +1,7 @@
+Esto es solamente un archivo de relleno para cumplir con lo pedido con la tarea.
+
+Asi tengo al menos 2 archivos, el par. 
+
+Apuntes iniciales de la materia:
+- Aprender Git y GitHub
+- Configurar ramas main y dev
